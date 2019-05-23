@@ -27,4 +27,14 @@ describe('main()', () => {
             "..|\n");
     });
 
+    // it('should return 7', () => {
+    //     let actual = main("");
+    //     expect(actual).toBe(null);
+    // });
+    //
+    // it('should return 7', () => {
+    //     let actual = main();
+    //     expect(actual).toBe(null);
+    // });
+
 });
